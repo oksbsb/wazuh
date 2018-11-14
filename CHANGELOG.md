@@ -1,6 +1,13 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [v3.7.1]
+
+### Fixed
+
+- Fix race condition when decoding file permissions. ([#1879](https://github.com/wazuh/wazuh/pull/1879)
+
+
 ## [v3.7.0]
 
 ### Added
